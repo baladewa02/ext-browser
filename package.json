@@ -1,0 +1,15 @@
+{
+  "name": "ext-browser",
+  "version": "0.0.1",
+  "description": "open a browser to start selenium webdriver",
+  "dependencies": {
+    "chromedriver": "^2.33.2",
+    "express": "^4.15.2",
+    "path": "^0.12.7",
+    "selenium-webdriver": "2.46.1",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
